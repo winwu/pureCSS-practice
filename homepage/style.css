@@ -81,8 +81,8 @@ border-bottom: 1px solid #EEE;height: 40px;line-height: 40px;text-indent: 20px;f
 #newtab .bd,
 
 #newtab .bd{padding: 10px;box-sizing: border-box;}
-#newtab img{width: 152px;height: 120px;display: block;float: left;margin: 10px;background: #F3F0F0;}
-#newtab dl{float: right;width: 60%;}
+#newtab img{width: 35%;height: 120px;display: block;float: left;margin: 10px;background: #F3F0F0;}
+#newtab dl{float: right;width: 58%;}
 #newtab dt{font-weight:bold;font-size:1.4em;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
 #newtab dd{min-height: 35px;}
 #newtab a.more{clear: both;float:right;}
