@@ -1,4 +1,5 @@
 #Pure CSS Layout Practice Work
+* If you like it, and want to use this layout, please git pull branch:gh-pages instead master
 * use PureCSS (http://purecss.io) to make this layout
 * What is Pure CSS, can refer the website : [http://purecss.io/](http://purecss.io/)
 * this practice with Font-Awesome [http://fortawesome.github.io/Font-Awesome](http://fortawesome.github.io/Font-Awesome)
