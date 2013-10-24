@@ -1,0 +1,12 @@
+{
+    "name": "sass_test",
+    "version": "0.1.0",
+    "author": {
+        "name": "WinWu",
+        "url": "http://yiyingloveart.blogstop.com"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-sass": "~0.5.0"
+    }
+}
