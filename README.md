@@ -1,4 +1,4 @@
-#Pure CSS Layout Practice Wokw
+#Pure CSS Layout Practice Work
 * use PureCSS (http://purecss.io) to make this layout
 * What is Pure CSS, can refer the website : [http://purecss.io/](http://purecss.io/)
 * this practice with Font-Awesome [http://fortawesome.github.io/Font-Awesome](http://fortawesome.github.io/Font-Awesome)
