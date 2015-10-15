@@ -35,7 +35,7 @@ menu, ol, ul {padding:0;margin:0;}
 #social_link li:nth-child(6){background:#0A71A2}
 #social_link li:nth-child(7){background:#168BDA}
 
-#hd{height: auto;background: #282C35;border-bottom: 1px solid rgb(180, 180, 180);}
+#hd{height: auto;background: #282C35;border-bottom: 1px solid rgb(180, 180, 180);height: 500px;}
 #hd h1{height: 170px;padding: 0;margin: 0;text-align: center;line-height: 170px;color: #fff}
 
 ul#cate{height: 20px;margin: 0 0 5px 0;font-size: 1.2em;}
@@ -110,3 +110,11 @@ border-bottom: 1px solid #EEE;height: 40px;line-height: 40px;text-indent: 20px;f
 #message .mail_data{width: 100%;border: none;}
 #message .mail_data td{height:50px;}
 #fresh_more{text-align: center}
+
+.login-btn {
+  border: 1px solid #C1BFC1;
+  color: #666;
+  border-radius: 3px;
+  padding: 4px 8px;
+  background-color: #ECE2EC;
+}
